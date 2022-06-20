@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prince Verma</h1>
 <h3 align="center">A passionate web developer from India. I'm currently pursuing my B.tech in electronics and communication engineering from National Institute of Technology , Jalandhar.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=princeverma-ai" alt="princeverma-ai" /></a> </p>
-
 - 🔭 I’m currently working on **my college's website**
 
 - 🌱 I’m currently learning **node.js, react.js**
