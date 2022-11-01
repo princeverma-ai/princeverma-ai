@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Prince Verma</h1>
 <h3 align="center">A passionate web developer from India. I'm currently pursuing my B.tech in electronics and communication engineering from National Institute of Technology , Jalandhar.</h3>
 
-- 🔭 I’m currently working on **my college's website**
+- 🔭 I’m currently working on **many different projects**
 
-- 🌱 I’m currently learning **node.js, react.js**
+- 🌱 I’m currently learning **data structures and algorithms**
 
 - 👨‍💻 All of my projects are available at [https://princeverma.my.canva.site/](https://princeverma.my.canva.site/)
 
 - 💬 Ask me about **dynamic web designing and rest api's**
 
-- 📫 How to reach me **9914604404p@gmail.com**
+- 📫 How to reach me **princeverma360p@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1kDJMqKfEgTmEZ0TUyeuW-DnDzn55mSaB/view?usp=sharing](https://drive.google.com/file/d/1kDJMqKfEgTmEZ0TUyeuW-DnDzn55mSaB/view?usp=sharing)
 
