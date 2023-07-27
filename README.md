@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **data structures and algorithms**
 
-- 👨‍💻 All of my projects are available at [https://princeverma.my.canva.site/](https://princeverma.my.canva.site/)
+- 👨‍💻 All of my projects are available at [https://princeverma.netlify.app/](https://princeverma.netlify.app/)
 
 - 💬 Ask me about **dynamic web designing and rest api's**
 
