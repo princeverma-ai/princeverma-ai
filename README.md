@@ -1,6 +1,6 @@
 # Hi, I'm Prince Verma
 
-Senior Backend and DevOps Engineer.
+Backend and DevOps Engineer.
 
 I build reliable backend platforms, scalable cloud infrastructure, and production-ready data systems. I have worked across the full delivery lifecycle, from architecture and system design to deployment and operations.
 
